@@ -1,0 +1,23 @@
+{
+  "name": "cloudbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImOverkill/CloudBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImOverkill/CloudBot/issues"
+  },
+  "homepage": "https://github.com/ImOverkill/CloudBot#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
